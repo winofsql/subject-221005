@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-// void dispnum( int );
-// void hello( void );
-// int addnum( int, int );
+extern void dispnum( int );
+extern void hello( void );
+extern int addnum( int, int );
+extern void swapint( int *, int *);
 
 int main(void) {
   printf("Hello World\n");
