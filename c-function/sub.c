@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 void dispnum( int );
 void hello( void );
 int addnum( int, int );
