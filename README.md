@@ -10,3 +10,11 @@
 ```
 cat /etc/os-release
 ```
+
+### 一般
+```
+pwd
+ls / dir
+cd
+cat
+```
